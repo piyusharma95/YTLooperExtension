@@ -25,14 +25,6 @@ YTLoop is a Chrome extension designed to enhance your YouTube experience by allo
 3. **Set Loop Count:** Enter the number of times you want the video to loop, or leave it infinite.
 4. **Activate Loop:** Click 'Set Loop' and watch your video loop as specified.
 
-## Support
+## Privacy Policy
 
-For support, queries, or suggestions, please open an issue on the [GitHub repository](Your-GitHub-Repo-Link).
-
-## Contributing
-
-Contributions to YTLoop are welcome! Please read our [Contributing Guidelines](Your-GitHub-Repo-Link/CONTRIBUTING.md) for details on how to submit pull requests, file issues, and adhere to our code of conduct.
-
-## License
-
-This project is licensed under the [MIT License](Your-GitHub-Repo-Link/LICENSE).
+Read our Privacy Policy [here](https://piyusharma95.github.io/youtube-looper-extension/privacypolicy.pdf).
